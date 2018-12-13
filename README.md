@@ -1,13 +1,15 @@
-Demo scenario 3 for Amusee project
+Milestone 5 Deliverables:
+
+1. Demo scenario 3 for Amusee project
 
 Target user: Jessica, 36, go to amusement park with her daughter, and she wants to decide which show to take her daughter to as the next step. 
 
 
-View the prototype on a mobile device through: https://yuukizou.github.io/amusee/index.html
+2. View the prototype on a mobile device through: https://yuukizou.github.io/amusee/index.html
 
-Link to the final presentation: https://goo.gl/7rjdNd
+3. Link to the final presentation: https://goo.gl/7rjdNd
 
-Link to video demo: https://www.youtube.com/watch?v=PaGJZmwVh6I
+4. Link to video demo: https://www.youtube.com/watch?v=PaGJZmwVh6I
 
 
 
