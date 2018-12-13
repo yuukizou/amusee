@@ -11,6 +11,7 @@ Milestone 5 Deliverables:
 
 4. Link to video demo: https://www.youtube.com/watch?v=PaGJZmwVh6I
 
+5. Hi-fi prototypes with all built scenarios can be found here: https://drive.google.com/open?id=1KpL9Ez3rFRrF3Gr7lp4uSO6Kdnkn84z5
 
 
 Proudly made by: Angie Gao & Yikai Zou
